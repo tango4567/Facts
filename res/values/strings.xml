@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Facts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="blue">#0066FF</color>
+    <color name="white">#FFFFFF</color>
+
+    <string name="title_activity_flash_main">FlashMainActivity</string>
+
+</resources>
